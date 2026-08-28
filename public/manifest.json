@@ -1,0 +1,18 @@
+{
+  "name": "Necser - Sakarya Yazıcı Kiralama",
+  "short_name": "Necser",
+  "description": "Sakarya yazıcı kiralama ve fotokopi makinesi kiralama hizmetleri",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#33aff6",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
