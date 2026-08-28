@@ -34,7 +34,7 @@ export function localBusinessSchema() {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "@id": `${SITE_URL}/#localbusiness`,
-    name: "Necser",
+    name: "Necser - Sakarya Yazıcı Kiralama",
     alternateName: [
       "Necser",
       "Necser Sakarya",
