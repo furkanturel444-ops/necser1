@@ -6,7 +6,7 @@ export const BRAND_COLOR_DARK = "#2898dc";
 export const contact = {
   phones: ["0535 329 71 81", "0538 966 51 71"],
   phoneLinks: ["+905353297181", "+905389665171"],
-  email: "necser@outlook.com.tr",
+  email: "info@necser.com.tr",
   address: "Sakarya, Türkiye",
   workingHours: "Pazartesi – Cuma · 09:00 – 18:00",
 };
