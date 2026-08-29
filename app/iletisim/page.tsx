@@ -85,7 +85,7 @@ export default function IletisimPage() {
             </h1>
             <p className="text-slate-400 text-sm sm:text-base mt-2 leading-relaxed">
               Fotokopi makinesi kiralama, büro tipi yazıcı kiralama veya teknik destek
-              için bize ulaşın — ücretsiz teklif sunuyoruz.
+              için bize ulaşın ücretsiz teklif sunuyoruz.
             </p>
           </div>
         </header>
